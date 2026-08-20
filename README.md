@@ -124,10 +124,6 @@ A mental health support platform featuring authentication, dashboards, mood trac
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Funanani100&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Snake animation](https://github.com/Funanani100/Funanani100/blob/output/github-contribution-grid-snake.svg)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Funanani100&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ## 💡 Engineering Philosophy
@@ -141,8 +137,7 @@ It's about understanding problems, designing maintainable systems, writing clean
 
 - Graduate Software Engineer  
 - AWS Cloud Practitioner  
-- Master Data Structures & Algorithms  
-- Contribute to Open Source  
+- Master Data Structures & Algorithms    
 - Build enterprise-grade SaaS products  
 - Learn System Design
 
@@ -150,9 +145,9 @@ It's about understanding problems, designing maintainable systems, writing clean
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://YOUR_PORTFOLIO)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/funanani-tshirufho)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://funanani100.github.io/Marvin-Dev/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrvnmunyai@gmail.com)
 
 ---
 
