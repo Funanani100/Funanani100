@@ -32,7 +32,7 @@
 
 ## ⭐ Featured Projects
 
-### 🚀 FundBridge — Student Funding Management Platform
+### 🚀 FundBridge - Student Funding Management Platform
 
 - Founder-led B2B SaaS product in development.
 - Designed to help organisations manage student funding opportunities and application workflows.
@@ -47,7 +47,7 @@
   - S3-compatible document storage development using LocalStack
 - **Status:** In development; source code maintained privately.
 
-### 💙 MindMate — Student Support Platform
+### 💙 MindMate - Student Support Platform
 
 - Student support application featuring mood tracking and dashboard functionality.
 - **Technical work and features:**
@@ -59,7 +59,7 @@
   - Appointment-related workflows and resource management
   - Dashboard and application interface development
 
-### 🛡️ Shadow-AI — Network Monitoring Prototype
+### 🛡️ Shadow-AI - Network Monitoring Prototype
 
 - Linux-based monitoring project exploring indicators of unauthorised AI tool usage.
 - **Technical work and features:**
