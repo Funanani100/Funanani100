@@ -149,9 +149,9 @@
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/funanani-tshirufho)
-- 🌐 [Portfolio](https://funanani100.github.io/Marvin-Dev/)
+- 🌐 [Portfolio](https://funanani100.github.io/Tshirufho-Funanani-Mavin/)
 - 💻 [GitHub](https://github.com/Funanani100)
-- 📧 [Email](mailto:mrvnmunyai@gmail.com)
+- 📧 [Email](mailto:marvintshirufho@gmail.com)
 
 ---
 
